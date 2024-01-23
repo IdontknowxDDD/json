@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Burned&family=VT323&display=swap');
+ 
+* {
+    font-family: 'Rubik Burned', system-ui;
+    font-family: 'VT323', monospace;
+}
+ 
+.teachers {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+ 
+.teacher {
+    border: 1px solid rgb(230, 230, 230);
+    padding: 2em;
+    margin: 1em;
+    border-radius: 6px;
+    box-shadow: -4px 6px 42px -7px rgba(0 0, 0, 0.38);
+    max-width: 320px;
+    width: 100%;
+}
+.teacher-heading{
+
+}
+
+
+.teacher-age{
+
+}
+
+
+.teacher-hair{
+
+}
+
+
+.teacher-characteristics{
+
+}
+
+
+.teacher-subjects{
+
+}

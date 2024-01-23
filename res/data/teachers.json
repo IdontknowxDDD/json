@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Liskova",
+        "age": 50,
+        "hair": "grey",
+        "characteristics": ["kind", "pretty", "calm", "golden", "loving"],
+        "title": "RNDr. ",
+        "subjects": ["Math"]
+    },
+    {
+        "name": "Shitka",
+        "age": 60,
+        "hair": "grey",
+        "characteristics": ["kind", "loved"],
+        "title": "Ing. ",
+        "subjects": ["English", "Engineering"]
+    },
+    {
+        "name": "Esch",
+        "age": 62,
+        "hair": "grey",
+        "characteristics": ["chad", "doutnik-lover","gym rat", "good looking"],
+        "title": "Ing. ",
+        "subjects": ["HW","OPS","SIT"]
+    },
+    {
+        "name": "Zakononova",
+        "age": 55,
+        "hair": "black",
+        "characteristics": ["kind", "boring"],
+        "title": "Mgr. ",
+        "subjects": ["PE"]
+    },
+    {
+        "name": "Venceslav",
+        "age": 61,
+        "hair": "",
+        "characteristics": ["story-teller", "Mission Impossible theme enjoyer"],
+        "title": "Ing. ",
+        "subjects": ["SIT", "TWS"]
+    }
+]
